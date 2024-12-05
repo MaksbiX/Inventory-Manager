@@ -1,0 +1,12 @@
+# ninja log v6
+14	789	7549512741792893	C:/Users/User/source/repos/Qt/lab8/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/lab8_autogen/timestamp	87380522a7a7d03
+14	789	7549512741792893	lab8_autogen/timestamp	87380522a7a7d03
+14	789	7549512741792893	lab8_autogen/mocs_compilation.cpp	87380522a7a7d03
+14	789	7549512741792893	C:/Users/User/source/repos/Qt/lab8/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/lab8_autogen/mocs_compilation.cpp	87380522a7a7d03
+790	4013	7549512742363080	CMakeFiles/lab8.dir/lab8_autogen/mocs_compilation.cpp.obj	6b0247e816365ff2
+819	5395	7549505892172851	CMakeFiles/lab8.dir/main.cpp.obj	78a07877c546f9e4
+5395	5790	7549505937942877	lab8.exe	b95628320c0cc827
+792	3964	7549512742382814	CMakeFiles/lab8.dir/itemdialog.cpp.obj	ae51bc762c85555c
+6	27	7548755255451712	CMakeFiles/clean.additional	5e639e7ae6a039ca
+27	33	7548755255661706	clean	bdae4659098ef2a9
+6	654	7549512734073180	build.ninja	6ba03259a9289e5c
